@@ -2,6 +2,7 @@
 - 👀 I’m interested in data analysis and machine learning
 - 🌱 I’m currently working for K-water (Korea Water Resources Corporation)
 - ✨ Publication : [Google Scholar](https://scholar.google.com/citations?user=_BauogcAAAAJ&hl=ko, "google link")
+- ✨ Career : [Linkedin](https://www.linkedin.com/in/hyunho-lee-91a473226/, "google link")
 - 📫 How to reach me : hyunho.lee26@gmail.com or hyunho@kwater.or.kr
 
 <!---
