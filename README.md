@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hyunho Lee
 - 👀 I’m interested in data analysis and machine learning
 - 🌱 I’m currently working for K-water (Korea Water Resources Corporation)
-- ✨ Publication : [Google Scholar](https://scholar.google.com/citations?user=_BauogcAAAAJ&hl=ko){: target="_blank"}
-- ✨ Career : [Linkedin](https://www.linkedin.com/in/hyunho-lee-91a473226/){: target="_blank"}
+- ✨ Publication : [Google Scholar](https://scholar.google.com/citations?user=_BauogcAAAAJ&hl=ko){:target="_blank" rel="noopener"}
+- ✨ Career : [Linkedin](https://www.linkedin.com/in/hyunho-lee-91a473226/){:target="_blank" rel="noopener"}
 - 📫 How to reach me : hyunho.lee26@gmail.com or hyunho@kwater.or.kr
 
 <!---
