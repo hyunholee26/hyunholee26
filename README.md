@@ -1,5 +1,5 @@
 - 👋 Hello, My name is Hyunho Lee. 
-- 👀 For more information, please refer to [hyunholee26.github.io/](https://hyunholee26.github.io/)
+- 👀 For more information, please refer to [hyunholee26.github.io](https://hyunholee26.github.io/)
 - 📫 How to reach me : hyunho.lee26@gmail.com or hyunho@kwater.or.kr
 
 <!---
