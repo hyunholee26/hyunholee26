@@ -1,4 +1,4 @@
-- 😎 Hello, My name is Hyunho Lee. I am interested in spatial data science.
+- 😎 Hello, My name is Hyunho Lee. I am interested in Geospatial Artificial Intelligence.
 - 👀 For more information, please refer to [hyunholee26.github.io](https://hyunholee26.github.io/)
 - 📫 How to reach me : hlee401@asu.edu or hyunho.lee26@gmail.com or hyunho@kwater.or.kr
 
